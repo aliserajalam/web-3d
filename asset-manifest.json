@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/web-3d/static/css/main.647116b5.chunk.css",
+    "main.js": "/web-3d/static/js/main.6b7f23f1.chunk.js",
+    "main.js.map": "/web-3d/static/js/main.6b7f23f1.chunk.js.map",
+    "runtime-main.js": "/web-3d/static/js/runtime-main.2626ff92.js",
+    "runtime-main.js.map": "/web-3d/static/js/runtime-main.2626ff92.js.map",
+    "static/js/2.3a139fc3.chunk.js": "/web-3d/static/js/2.3a139fc3.chunk.js",
+    "static/js/2.3a139fc3.chunk.js.map": "/web-3d/static/js/2.3a139fc3.chunk.js.map",
+    "index.html": "/web-3d/index.html",
+    "precache-manifest.175741873a7af27bfb8b138e3dea9b18.js": "/web-3d/precache-manifest.175741873a7af27bfb8b138e3dea9b18.js",
+    "service-worker.js": "/web-3d/service-worker.js",
+    "static/css/main.647116b5.chunk.css.map": "/web-3d/static/css/main.647116b5.chunk.css.map",
+    "static/js/2.3a139fc3.chunk.js.LICENSE.txt": "/web-3d/static/js/2.3a139fc3.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2626ff92.js",
+    "static/js/2.3a139fc3.chunk.js",
+    "static/css/main.647116b5.chunk.css",
+    "static/js/main.6b7f23f1.chunk.js"
+  ]
+}
